@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514285eec265d494d954112130374674, type: 3}
+  m_Name: Iron_1
+  m_EditorClassIdentifier: 
+  itemName: Iron_1
+  itemType: 1
+  sprite: {fileID: 21300000, guid: aacc208eff89e534186b797aee5d65e5, type: 3}
+  upgradeLevels: []
